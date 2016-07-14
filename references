@@ -1,0 +1,43 @@
+http://undertow.io/undertow-docs/undertow-docs-1.2.0/#creating-a-servlet-deployment
+http://www.tutorialspoint.com/servlets/servlets-first-example.htm
+https://glassonionblog.wordpress.com/2011/04/08/tomcat-redirecting-traffic-from-port-8080-to-80-using-iptables/
+https://docs.oracle.com/javase/7/docs/api/java/math/RoundingMode.html
+http://theoryapp.com/parse-json-in-java/
+https://androidbeasts.wordpress.com/2015/08/04/json-parsing-tutorial/
+https://dev.twitter.com/overview/api/tweets
+https://docs.oracle.com/javase/tutorial/java/data/numberformat.html
+http://stackoverflow.com/questions/4521715/twitter-date-unparseable
+http://docs.oracle.com/javase/tutorial/java/data/characters.html
+
+# mysql utf8mb4
+http://stackoverflow.com/questions/10757169/mysql-my-cnf-location
+http://forums.mysql.com/read.php?11,366143,376017#msg-376017
+https://mathiasbynens.be/notes/mysql-utf8mb4#utf8-to-utf8mb4
+http://stackoverflow.com/questions/22572558/how-to-set-character-set-database-and-collation-database-to-utf8-in-my-ini
+http://coolestguidesontheplanet.com/start-stop-mysql-from-the-command-line-terminal-osx-linux/
+
+# mysql case sensitivity
+http://stackoverflow.com/questions/7857669/mysql-case-sensitive-query
+
+# load local file into mysql
+http://stackoverflow.com/questions/10762239/mysql-enable-load-data-local-infile
+http://dba.stackexchange.com/questions/57830/inserting-all-csv-files-into-a-table-in-mysql
+
+# s3cmd
+http://tecadmin.net/install-s3cmd-manage-amazon-s3-buckets/
+
+# database design
+http://www.jianshu.com/p/be641903845c
+http://niehan.blog.techweb.com.cn/archives/315.html
+http://sunheran.com/2015/01/27/database-design/
+
+# aws
+http://stackoverflow.com/questions/1985609/amazon-mapreduce-no-reducer-job
+
+# hbase shell command
+https://learnhbase.wordpress.com/2013/03/02/hbase-shell-commands/
+
+# tuning emr MapReduce
+https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/W265aa64a4f21_43ee_b236_c42a1c875961/page/Tuning%20the%20heap%20size%20of%20map%20and%20reduce%20tasks
+http://www.cloudera.com/documentation/enterprise/5-3-x/topics/cdh_ig_yarn_tuning.html
+https://support.pivotal.io/hc/en-us/articles/201462036-MapReduce-YARN-Memory-Parameters

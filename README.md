@@ -1,11 +1,11 @@
-# 15619Phase1
+# 15619
 **Team**  
 My heart is in the work  
   
 **Members**  
-Dongyu Liu (dongyul1)  
-Yuan Liu (yuanl3)  
+Yuan Liu (yuanl3)   
 Li Lin (lli2)  
+Dongyu Liu (dongyul1)
 
 ## Class Descriptions
 
